@@ -1,4 +1,4 @@
-baseURL: "freezesecurity.netlify.app"
+baseURL: "https://freezesecurity.netlify.app"
 languageCode: en-us
 title: FreezeSecurity
 theme: PaperMod
