@@ -13,7 +13,7 @@ cover:
 
 **Do as many practice exams as you can find! and then do them again!** 
 
-It doesn't matter where you find them just keep doing them. Completing these will give you a feel for the types of questions that may appear. 
+It doesn't matter where you find them just keep doing them. Completing these will give you a feel for the types of questions that may appear. It will also help with those strangely worded questions that CompTIA love to throw at you. 
 
 **Learn why an answer is wrong**
 
@@ -25,18 +25,43 @@ This will help immensely when doing the multiple choice questions as they will l
 
 **Practice Networking**
 
-Learn basic networking and be able to differentiate between ports and services and how to allow or deny them communication through a firewall
+Learn basic networking and be able to differentiate between ports and services and how to allow or deny their communication through a firewall
 
 
 ### Free Resources 
 
-* **Professor Messer’s SY0-601 CompTIA Security+ Course**
+* **[CompTIA Security + Exam Objectives](https://www.comptia.org/training/resources/exam-objectives)**
     
-This course covers every topic that appears in the exam objectives, and is very well presented  
-https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/
+    Your bible for the exam, make sure you know all the topics presented there and how to differentiate between each of them. Best to print them off and have them handy. 
 
+* **[Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)**
+    
+    This course covers every topic that appears in the exam objectives, and is very well presented  
+    
 
-* **Inside Cloud and Security's Comptia Security+ SY0-601 Exam Cram**
+* **[Inside Cloud and Security's Comptia Security+ SY0-601 Exam Cram](https://www.youtube.com/c/InsideAzureManagement)**
 
-This course is great for a condensed version of the exam objectives
-https://www.youtube.com/c/InsideAzureManagement 
+    This course is great for a condensed version of the exam objectives
+    
+* **[CompTIA Security+ Exam Prep Android Application](https://play.google.com/store/apps/details?id=com.abc.comptiasecurityplus&hl=en_AU&gl=US)**
+
+    Great mobile app for a large variety of exam questions, also contains explanations. Ads in app, but if you have a network wide ad blocker such as a pihole it will remove them. 
+
+* **[ExamCompass Security + Practice Exams](https://www.examcompass.com/)**
+
+    More free exam questions, do them all!!
+
+### Paid Resources
+
+* **[Udemy Jason Dions Practice Exams](https://www.udemy.com/course/security-601-exams/)**
+
+    A good range of practice exams, provides explanations for each question.
+
+* **[Professor Messors SY0-601 Practice Exams](https://www.professormesser.com/sy0-601-success-bundle/)**
+
+    A great range of questions and very relevant, great explanations. 
+
+* **[Cybrary SY0-601 Practice Exams](https://app.cybrary.it/browse/comptia-security-sy0-601-practice-assessment)**
+
+    Another great range of practice exams, I used this resource due to having free access.
+
