@@ -1,17 +1,18 @@
 ---
-title: "Security + Post Exam Study Guide"
+title: "Security + Certification Exam Study Guide"
 date: 2022-07-30T12:33:24+10:00
 draft: false
 summary: I recently passed the security plus exam and would like to share some good resources and tips which helped me through it.
 cover:
     image: img/CompTIA_Security.png
+categories: ["Certifications"]
 ---
 
 ----
 
 ### Intro
 
-The security plus is an entry level certification for cyber security. I completed it as it was a requirement for my employment at my current company and is also a good certification to have on your resume. I found the course content very extensive and it gave me a base level understanding of many different cyber security concepts and topics. What i didn't like about the course was the rope learning of these topics and their acronyms, I have a very practical brain and definitely learn better when there is an example or lab to reinforce my learning. If what you are looking for is a basic level of understanding for all the major topics of cybersecurity, Security plus has definitely got you covered.   
+The security plus is an entry level certification for cyber security. I found the course content very extensive, and it gave me a base level understanding of many different cyber security concepts and topics. The exam was challenging for me in that I probably did not give it the respect it deserved in terms of allocating enough time to study. What I didn't like about the course was the rope learning of these topics and their acronyms, I have a very practical brain and learn better when there is an example or lab to reinforce my learning. If what you are looking for is a basic level of understanding for all the major topics of cybersecurity, Security plus has got you covered.      
 
 ### Tips
 
@@ -23,9 +24,13 @@ It doesn't matter where you find them just keep doing them. Completing these wil
 
 Doing practice exams is not just about getting the answer right, its about learning why you got a particular question wrong.
 
-**Be able to differentiate between similar technologies, attacks, vulnerabilites, standards, etc...**
+**Be able to differentiate between similar technologies, attacks, vulnerabilities, standards, etc...**
 
 This will help immensely when doing the multiple choice questions as they will love to give you a question with answers that look very similar.
+
+**Book the exam**
+
+This may not seem like a tip but I found booking the exam really helped motivate me. I really did not want to have to take the exam again so this pushed me to start seriously getting into the study.
 
 **Learn the acronyms**
 
