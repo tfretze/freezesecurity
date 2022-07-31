@@ -3,6 +3,13 @@ languageCode: en-us
 title: FreezeSecurity
 theme: PaperMod
 
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+
 params:
   disableThemeToggle: true
   defaultTheme: dark
@@ -10,7 +17,7 @@ params:
   homeInfoParams:
     Title: "Welcome to the freeze security blog"
     Content:     
-      My aim is to document all my activities in cybersecurity and hopefully provide some insights and advice for people interested in cybersecurity
+      My aim is to document all my activities in cybersecurity and provide some insights for anyone interested
     
   socialIcons:
     - name: github
