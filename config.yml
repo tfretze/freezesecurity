@@ -6,3 +6,14 @@ theme: PaperMod
 params:
   disableThemeToggle: true
   defaultTheme: dark
+
+  homeInfoParams:
+    Title: "Welcome to the freeze security blog"
+    Content:     
+      My aim is to document all my activities in cybersecurity and hopefully provide some insights and advice for people interested in cybersecurity
+    
+  socialIcons:
+    - name: github
+      url: "https://github.com/tfretze"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/tomas-fretze-a6538a84/"

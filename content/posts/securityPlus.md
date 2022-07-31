@@ -9,6 +9,10 @@ cover:
 
 ----
 
+### Intro
+
+The security plus is an entry level certification for cyber security. I completed it as it was a requirement for my employment at my current company and is also a good certification to have on your resume. I found the course content very extensive and it gave me a base level understanding of many different cyber security concepts and topics. What i didn't like about the course was the rope learning of these topics and their acronyms, I have a very practical brain and definitely learn better when there is an example or lab to reinforce my learning. If what you are looking for is a basic level of understanding for all the major topics of cybersecurity, Security plus has definitely got you covered.   
+
 ### Tips
 
 **Do as many practice exams as you can find! and then do them again!** 
@@ -23,9 +27,13 @@ Doing practice exams is not just about getting the answer right, its about learn
 
 This will help immensely when doing the multiple choice questions as they will love to give you a question with answers that look very similar.
 
+**Learn the acronyms**
+
+Grab the exam objectives acronym list and write a brief description of every acronym in the list.
+
 **Practice Networking**
 
-Learn basic networking and be able to differentiate between ports and services and how to allow or deny their communication through a firewall
+Learn basic networking and be able to differentiate between ports and services and how to allow or deny their communication through a firewall.
 
 
 ### Free Resources 
